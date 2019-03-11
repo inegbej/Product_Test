@@ -1,0 +1,10 @@
+E:\LocalOnly\Jobs\Agencies_15022019\rocsearch\HarveyNichols\TestSolution\HarveyNichols\HarveyNichols.Data\bin\Debug\netcoreapp2.2\HarveyNichols.Data.deps.json
+E:\LocalOnly\Jobs\Agencies_15022019\rocsearch\HarveyNichols\TestSolution\HarveyNichols\HarveyNichols.Data\bin\Debug\netcoreapp2.2\HarveyNichols.Data.runtimeconfig.json
+E:\LocalOnly\Jobs\Agencies_15022019\rocsearch\HarveyNichols\TestSolution\HarveyNichols\HarveyNichols.Data\bin\Debug\netcoreapp2.2\HarveyNichols.Data.runtimeconfig.dev.json
+E:\LocalOnly\Jobs\Agencies_15022019\rocsearch\HarveyNichols\TestSolution\HarveyNichols\HarveyNichols.Data\bin\Debug\netcoreapp2.2\HarveyNichols.Data.dll
+E:\LocalOnly\Jobs\Agencies_15022019\rocsearch\HarveyNichols\TestSolution\HarveyNichols\HarveyNichols.Data\bin\Debug\netcoreapp2.2\HarveyNichols.Data.pdb
+E:\LocalOnly\Jobs\Agencies_15022019\rocsearch\HarveyNichols\TestSolution\HarveyNichols\HarveyNichols.Data\obj\Debug\netcoreapp2.2\HarveyNichols.Data.csproj.CoreCompileInputs.cache
+E:\LocalOnly\Jobs\Agencies_15022019\rocsearch\HarveyNichols\TestSolution\HarveyNichols\HarveyNichols.Data\obj\Debug\netcoreapp2.2\HarveyNichols.Data.AssemblyInfoInputs.cache
+E:\LocalOnly\Jobs\Agencies_15022019\rocsearch\HarveyNichols\TestSolution\HarveyNichols\HarveyNichols.Data\obj\Debug\netcoreapp2.2\HarveyNichols.Data.AssemblyInfo.cs
+E:\LocalOnly\Jobs\Agencies_15022019\rocsearch\HarveyNichols\TestSolution\HarveyNichols\HarveyNichols.Data\obj\Debug\netcoreapp2.2\HarveyNichols.Data.dll
+E:\LocalOnly\Jobs\Agencies_15022019\rocsearch\HarveyNichols\TestSolution\HarveyNichols\HarveyNichols.Data\obj\Debug\netcoreapp2.2\HarveyNichols.Data.pdb

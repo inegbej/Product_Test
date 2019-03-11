@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarveyNichols.Product", "HarveyNichols.Product\HarveyNichols.Product.csproj", "{FD7A2789-F40C-4853-8999-A41489539C62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarveyNichols.Data", "HarveyNichols.Data\HarveyNichols.Data.csproj", "{B115D93E-0CC3-4C18-99AE-F29CB964A69F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD7A2789-F40C-4853-8999-A41489539C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7A2789-F40C-4853-8999-A41489539C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7A2789-F40C-4853-8999-A41489539C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7A2789-F40C-4853-8999-A41489539C62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B115D93E-0CC3-4C18-99AE-F29CB964A69F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B115D93E-0CC3-4C18-99AE-F29CB964A69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B115D93E-0CC3-4C18-99AE-F29CB964A69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B115D93E-0CC3-4C18-99AE-F29CB964A69F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78A405BE-B02A-4216-AFC4-5BE4FE9BA2CD}
+	EndGlobalSection
+EndGlobal
